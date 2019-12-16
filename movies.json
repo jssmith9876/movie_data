@@ -1,0 +1,782 @@
+{
+  "#1": {
+    "title": "Avengers: Infinity War",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  "#2": {
+    "title": "Black Panther",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  "#3": {
+    "title": "Deadpool 2",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  "#4": {
+    "title": "Jurassic World: Fallen Kingdom",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  "#5": {
+    "title": "The Meg",
+    "genre": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ]
+  },
+  "#6": {
+    "title": "Venom",
+    "genre": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ]
+  },
+  "#7": {
+    "title": "Mission: Impossible - Fallout",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ]
+  },
+  "#8": {
+    "title": "Ready Player One",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  "#9": {
+    "title": "Incredibles 2",
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ]
+  },
+  "#10": {
+    "title": "Bohemian Rhapsody",
+    "genre": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  "#11": {
+    "title": "Ant-Man and the Wasp",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  "#12": {
+    "title": "Solo: A Star Wars Story",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  "#13": {
+    "title": "A Quiet Place",
+    "genre": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ]
+  },
+  "#14": {
+    "title": "The Predator",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  "#15": {
+    "title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "genre": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "#16": {
+    "title": "A Star Is Born",
+    "genre": [
+      "Drama",
+      "Music",
+      "Romance"
+    ]
+  },
+  "#17": {
+    "title": "The Nun",
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "#18": {
+    "title": "Halloween",
+    "genre": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "#19": {
+    "title": "Ocean's 8",
+    "genre": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "#20": {
+    "title": "Mamma Mia! Here We Go Again",
+    "genre": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ]
+  },
+  "#21": {
+    "title": "Annihilation",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Horror"
+    ]
+  },
+  "#22": {
+    "title": "Tomb Raider",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "#23": {
+    "title": "Red Sparrow",
+    "genre": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "#24": {
+    "title": "Crazy Rich Asians",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  "#25": {
+    "title": "Hereditary",
+    "genre": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ]
+  },
+  "#26": {
+    "title": "Aquaman",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "#27": {
+    "title": "A Simple Favor",
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "#28": {
+    "title": "Rampage",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  "#29": {
+    "title": "Pacific Rim: Uprising",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  "#30": {
+    "title": "The Equalizer 2",
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "#31": {
+    "title": "Sicario: Day of the Soldado",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "#32": {
+    "title": "Game Night",
+    "genre": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "#33": {
+    "title": "Call Me by Your Name",
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "#34": {
+    "title": "Fifty Shades Freed",
+    "genre": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ]
+  },
+  "#35": {
+    "title": "The Cloverfield Paradox",
+    "genre": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ]
+  },
+  "#36": {
+    "title": "The Kissing Booth",
+    "genre": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "#37": {
+    "title": "First Man",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
+  },
+  "#38": {
+    "title": "BlacKkKlansman",
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "#39": {
+    "title": "Skyscraper",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ]
+  },
+  "#40": {
+    "title": "Tag",
+    "genre": [
+      "Comedy"
+    ]
+  },
+  "#41": {
+    "title": "The Ballad of Buster Scruggs",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ]
+  },
+  "#42": {
+    "title": "Outlaw King",
+    "genre": [
+      "Action",
+      "Biography",
+      "Drama"
+    ]
+  },
+  "#43": {
+    "title": "I, Tonya",
+    "genre": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "#44": {
+    "title": "To All the Boys I've Loved Before",
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "#45": {
+    "title": "The First Purge",
+    "genre": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ]
+  },
+  "#46": {
+    "title": "Bad Times at the El Royale",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "#47": {
+    "title": "The Post",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
+  },
+  "#48": {
+    "title": "A Wrinkle in Time",
+    "genre": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "#49": {
+    "title": "Christopher Robin",
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "#50": {
+    "title": "Blockers",
+    "genre": [
+      "Comedy"
+    ]
+  },
+  "#51": {
+    "title": "Suspiria",
+    "genre": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ]
+  },
+  "#52": {
+    "title": "Hotel Transylvania 3: Summer Vacation",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  "#53": {
+    "title": "Overlord",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ]
+  },
+  "#54": {
+    "title": "Den of Thieves",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "#55": {
+    "title": "Creed II",
+    "genre": [
+      "Drama",
+      "Sport"
+    ]
+  },
+  "#56": {
+    "title": "Mile 22",
+    "genre": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "#57": {
+    "title": "Molly's Game",
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "#58": {
+    "title": "Upgrade",
+    "genre": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ]
+  },
+  "#59": {
+    "title": "I Feel Pretty",
+    "genre": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "#60": {
+    "title": "12 Strong",
+    "genre": [
+      "Action",
+      "Drama",
+      "History"
+    ]
+  },
+  "#61": {
+    "title": "Mandy",
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Horror"
+    ]
+  },
+  "#62": {
+    "title": "Love, Simon",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  "#63": {
+    "title": "Blumhouse's Truth or Dare",
+    "genre": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "#64": {
+    "title": "Isle of Dogs",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  "#65": {
+    "title": "Phantom Thread",
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "#66": {
+    "title": "Dr. Seuss' The Grinch",
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "#67": {
+    "title": "The Spy Who Dumped Me",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  "#68": {
+    "title": "Hostiles",
+    "genre": [
+      "Drama",
+      "Western"
+    ]
+  },
+  "#69": {
+    "title": "Alpha",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ]
+  },
+  "#70": {
+    "title": "Death Wish",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "#71": {
+    "title": "Robin Hood",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ]
+  },
+  "#72": {
+    "title": "Maze Runner: The Death Cure",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  "#73": {
+    "title": "How It Ends",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "#74": {
+    "title": "Overboard",
+    "genre": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "#75": {
+    "title": "The Commuter",
+    "genre": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "#76": {
+    "title": "Hold the Dark",
+    "genre": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ]
+  },
+  "#77": {
+    "title": "Ralph Breaks the Internet",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  "#78": {
+    "title": "Adrift",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Biography"
+    ]
+  },
+  "#79": {
+    "title": "Widows",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "#80": {
+    "title": "The Nutcracker and the Four Realms",
+    "genre": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "#81": {
+    "title": "Mary Poppins Returns",
+    "genre": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "#82": {
+    "title": "Slender Man",
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "#83": {
+    "title": "Searching",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "#84": {
+    "title": "The Girl in the Spider's Web",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "#85": {
+    "title": "Bumblebee",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  "#86": {
+    "title": "Extinction",
+    "genre": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ]
+  },
+  "#87": {
+    "title": "Uncle Drew",
+    "genre": [
+      "Comedy",
+      "Sport"
+    ]
+  },
+  "#88": {
+    "title": "Super Troopers 2",
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ]
+  },
+  "#89": {
+    "title": "You Were Never Really Here",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "#90": {
+    "title": "The Happytime Murders",
+    "genre": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "#91": {
+    "title": "Hotel Artemis",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "#92": {
+    "title": "Tully",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "#93": {
+    "title": "Insidious: The Last Key",
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "#94": {
+    "title": "Life of the Party",
+    "genre": [
+      "Comedy"
+    ]
+  },
+  "#95": {
+    "title": "Peter Rabbit",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  "#96": {
+    "title": "The House with a Clock in Its Walls",
+    "genre": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ]
+  },
+  "#97": {
+    "title": "Night School",
+    "genre": [
+      "Comedy"
+    ]
+  },
+  "#98": {
+    "title": "The Titan",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ]
+  },
+  "#99": {
+    "title": "Mute",
+    "genre": [
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ]
+  },
+  "#100": {
+    "title": "Book Club",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  }
+}
