@@ -23,8 +23,8 @@ try:
         
         # create the table
         table_name = 'movies_' + str(movie_data['year'])
-        # cursor.execute("create table " + table_name + "(id int not null AUTO_INCREMENT, title varchar(50), genre_1 varchar(20), genre_2 varchar(20), genre_3 varchar(20), primary key (id));")
-        # print("Table {} has been created.".format(table_name))
+        cursor.execute("create table " + table_name + "(id int not null AUTO_INCREMENT, title varchar(50), genre_1 varchar(20), genre_2 varchar(20), genre_3 varchar(20), primary key (id));")
+        print("Table {} has been created.".format(table_name))
 
         # insert the data
         for k in movie_data:
@@ -43,8 +43,13 @@ try:
                 values = values[:-1]
                 values += ");"
 
+                insert_command = "insert into " + table_name + " (id, title, genre_1, genre_2, genre_3) values " + values
+                #print(insert_command)
+
                 # execute the insert
-                cursor.execute("insert into " + table_name + " (id, title, genre_1, genre_2, genre_3) values " + values)
+                cursor.execute(insert_command)
+
+                connection.commit()
 
         print("Movie data has been inserted into {}".format(table_name))
 
