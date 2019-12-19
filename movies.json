@@ -1,122 +1,125 @@
 {
-  "year": 1971,
+  "year": 2018,
   "#1": {
-    "title": "Willy Wonka & the Chocolate Factory",
+    "title": "Dr. Seuss' The Grinch",
     "genre": [
+      "Animation",
       "Family",
-      "Fantasy",
-      "Musical"
+      "Fantasy"
     ]
   },
   "#2": {
-    "title": "A Clockwork Orange",
+    "title": "Freaks",
     "genre": [
-      "Crime",
       "Drama",
+      "Mystery",
       "Sci-Fi"
     ]
   },
   "#3": {
-    "title": "Big Jake",
-    "genre": [
-      "Western"
-    ]
-  },
-  "#4": {
-    "title": "Diamonds Are Forever",
+    "title": "Solo: A Star Wars Story",
     "genre": [
       "Action",
       "Adventure",
-      "Thriller"
+      "Sci-Fi"
+    ]
+  },
+  "#4": {
+    "title": "The Christmas Chronicles",
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Family"
     ]
   },
   "#5": {
-    "title": "Dirty Harry",
+    "title": "Mission: Impossible - Fallout",
     "genre": [
       "Action",
-      "Crime",
+      "Adventure",
       "Thriller"
     ]
   },
   "#6": {
-    "title": "Bedknobs and Broomsticks",
+    "title": "Avengers: Infinity War",
     "genre": [
-      "Animation",
+      "Action",
       "Adventure",
-      "Comedy"
+      "Sci-Fi"
     ]
   },
   "#7": {
-    "title": "Le Mans",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ]
-  },
-  "#8": {
-    "title": "The Last Picture Show",
-    "genre": [
-      "Drama",
-      "Romance"
-    ]
-  },
-  "#9": {
-    "title": "Harold and Maude",
-    "genre": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ]
-  },
-  "#10": {
-    "title": "Fiddler on the Roof",
-    "genre": [
-      "Drama",
-      "Family",
-      "Musical"
-    ]
-  },
-  "#11": {
-    "title": "The French Connection",
-    "genre": [
-      "Action",
-      "Crime",
-      "Drama"
-    ]
-  },
-  "#12": {
-    "title": "Play Misty for Me",
-    "genre": [
-      "Drama",
-      "Thriller"
-    ]
-  },
-  "#13": {
-    "title": "THX 1138",
-    "genre": [
-      "Drama",
-      "Sci-Fi",
-      "Thriller"
-    ]
-  },
-  "#14": {
-    "title": "Walkabout",
-    "genre": [
-      "Adventure",
-      "Drama"
-    ]
-  },
-  "#15": {
-    "title": "The Devils",
+    "title": "The Favourite",
     "genre": [
       "Biography",
       "Drama",
       "History"
     ]
   },
+  "#8": {
+    "title": "Bohemian Rhapsody",
+    "genre": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  "#9": {
+    "title": "Aquaman",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "#10": {
+    "title": "A Million Little Pieces",
+    "genre": [
+      "Drama"
+    ]
+  },
+  "#11": {
+    "title": "The Nightingale",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "#12": {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ]
+  },
+  "#13": {
+    "title": "Black Panther",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  "#14": {
+    "title": "Hereditary",
+    "genre": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ]
+  },
+  "#15": {
+    "title": "Green Book",
+    "genre": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ]
+  },
   "#16": {
-    "title": "Straw Dogs",
+    "title": "The Mule",
     "genre": [
       "Crime",
       "Drama",
@@ -124,250 +127,268 @@
     ]
   },
   "#17": {
-    "title": "Duck, You Sucker",
+    "title": "The Death and Life of John F. Donovan",
     "genre": [
-      "Drama",
-      "War",
-      "Western"
-    ]
-  },
-  "#18": {
-    "title": "Vanishing Point",
-    "genre": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ]
-  },
-  "#19": {
-    "title": "Kidnapped",
-    "genre": [
-      "Adventure",
       "Drama"
     ]
   },
-  "#20": {
-    "title": "McCabe & Mrs. Miller",
+  "#18": {
+    "title": "The Nutcracker and the Four Realms",
+    "genre": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "#19": {
+    "title": "A Quiet Place",
     "genre": [
       "Drama",
-      "Western"
+      "Horror",
+      "Sci-Fi"
+    ]
+  },
+  "#20": {
+    "title": "Deadpool 2",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
     ]
   },
   "#21": {
-    "title": "Carnal Knowledge",
+    "title": "Instant Family",
     "genre": [
+      "Comedy",
       "Drama"
     ]
   },
   "#22": {
-    "title": "The Beguiled",
+    "title": "A Star Is Born",
     "genre": [
       "Drama",
-      "Thriller",
-      "War"
+      "Music",
+      "Romance"
     ]
   },
   "#23": {
-    "title": "The Panic in Needle Park",
-    "genre": [
-      "Drama"
-    ]
-  },
-  "#24": {
-    "title": "The Omega Man",
-    "genre": [
-      "Action",
-      "Drama",
-      "Sci-Fi"
-    ]
-  },
-  "#25": {
-    "title": "The Andromeda Strain",
-    "genre": [
-      "Sci-Fi",
-      "Thriller"
-    ]
-  },
-  "#26": {
-    "title": "Klute",
-    "genre": [
-      "Crime",
-      "Mystery",
-      "Thriller"
-    ]
-  },
-  "#27": {
-    "title": "Macbeth",
-    "genre": [
-      "Biography",
-      "Drama",
-      "History"
-    ]
-  },
-  "#28": {
-    "title": "Shaft",
-    "genre": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ]
-  },
-  "#29": {
-    "title": "Mary, Queen of Scots",
-    "genre": [
-      "Biography",
-      "Drama",
-      "History"
-    ]
-  },
-  "#30": {
-    "title": "Get Carter",
-    "genre": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ]
-  },
-  "#31": {
-    "title": "Billy Jack",
-    "genre": [
-      "Action",
-      "Drama",
-      "Western"
-    ]
-  },
-  "#32": {
-    "title": "Hannie Caulder",
-    "genre": [
-      "Crime",
-      "Drama",
-      "Western"
-    ]
-  },
-  "#33": {
-    "title": "The Decameron",
-    "genre": [
-      "Comedy",
-      "Drama",
-      "History"
-    ]
-  },
-  "#34": {
-    "title": "Johnny Got His Gun",
-    "genre": [
-      "Drama",
-      "War"
-    ]
-  },
-  "#35": {
-    "title": "Death in Venice",
-    "genre": [
-      "Drama"
-    ]
-  },
-  "#36": {
-    "title": "Wake in Fright",
-    "genre": [
-      "Drama",
-      "Thriller"
-    ]
-  },
-  "#37": {
-    "title": "Support Your Local Gunfighter",
-    "genre": [
-      "Comedy",
-      "Romance",
-      "Western"
-    ]
-  },
-  "#38": {
-    "title": "Anand",
-    "genre": [
-      "Drama",
-      "Musical"
-    ]
-  },
-  "#39": {
-    "title": "Bananas",
-    "genre": [
-      "Comedy"
-    ]
-  },
-  "#40": {
-    "title": "Sunday Bloody Sunday",
-    "genre": [
-      "Drama"
-    ]
-  },
-  "#41": {
-    "title": "Summer of '42",
+    "title": "A Christmas Prince: The Royal Wedding",
     "genre": [
       "Drama",
       "Romance"
     ]
   },
-  "#42": {
-    "title": "Soleil rouge",
+  "#24": {
+    "title": "12 Strong",
     "genre": [
       "Action",
-      "Western"
+      "Drama",
+      "History"
     ]
   },
-  "#43": {
-    "title": "The Big Boss",
+  "#25": {
+    "title": "A Simple Favor",
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "#26": {
+    "title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "genre": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "#27": {
+    "title": "Crazy Rich Asians",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  "#28": {
+    "title": "Ready Player One",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  "#29": {
+    "title": "BlacKkKlansman",
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "#30": {
+    "title": "Robin Hood",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ]
+  },
+  "#31": {
+    "title": "Upgrade",
+    "genre": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ]
+  },
+  "#32": {
+    "title": "Red Sparrow",
+    "genre": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "#33": {
+    "title": "Venom",
+    "genre": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ]
+  },
+  "#34": {
+    "title": "Vice",
+    "genre": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "#35": {
+    "title": "Annihilation",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Horror"
+    ]
+  },
+  "#36": {
+    "title": "Mortal Engines",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "#37": {
+    "title": "Bad Times at the El Royale",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "#38": {
+    "title": "Den of Thieves",
     "genre": [
       "Action",
       "Crime",
       "Drama"
     ]
   },
-  "#44": {
-    "title": "Lawman",
+  "#39": {
+    "title": "Mid90s",
+    "genre": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "#40": {
+    "title": "Hotel Mumbai",
+    "genre": [
+      "Drama",
+      "History",
+      "Thriller"
+    ]
+  },
+  "#41": {
+    "title": "High Life",
     "genre": [
       "Adventure",
-      "Western"
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "#42": {
+    "title": "In Fabric",
+    "genre": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "#43": {
+    "title": "Bird Box",
+    "genre": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ]
+  },
+  "#44": {
+    "title": "Suspiria",
+    "genre": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
     ]
   },
   "#45": {
-    "title": "Daughters of Darkness",
+    "title": "Overlord",
     "genre": [
+      "Action",
+      "Adventure",
       "Horror"
     ]
   },
   "#46": {
-    "title": "Escape from the Planet of the Apes",
+    "title": "Bumblebee",
     "genre": [
       "Action",
+      "Adventure",
       "Sci-Fi"
     ]
   },
   "#47": {
-    "title": "Two-Lane Blacktop",
+    "title": "Mary Poppins Returns",
     "genre": [
-      "Drama"
+      "Comedy",
+      "Family",
+      "Fantasy"
     ]
   },
   "#48": {
-    "title": "A Bay of Blood",
-    "genre": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ]
-  },
-  "#49": {
-    "title": "Women in Cages",
+    "title": "Dragged Across Concrete",
     "genre": [
       "Action",
       "Crime",
       "Drama"
     ]
   },
-  "#50": {
-    "title": "The Abominable Dr. Phibes",
+  "#49": {
+    "title": "Creed II",
     "genre": [
-      "Comedy",
-      "Horror"
+      "Drama",
+      "Sport"
+    ]
+  },
+  "#50": {
+    "title": "Mary Queen of Scots",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
     ]
   }
 }

@@ -4,7 +4,7 @@ import sql_connector
 
 
 # Get all the top 100 urls and store them into a list
-get_lists.get_all_lists(1970, 1971)
+get_lists.get_all_lists(1970, 2018)
 
 
 with open("movie_links.txt", "r") as url_list:
