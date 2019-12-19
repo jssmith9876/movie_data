@@ -1,766 +1,373 @@
 {
-  "year": 2015,
+  "year": 1971,
   "#1": {
-    "title": "Mad Max: Fury Road",
+    "title": "Willy Wonka & the Chocolate Factory",
     "genre": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
+      "Family",
+      "Fantasy",
+      "Musical"
     ]
   },
   "#2": {
-    "title": "Star Wars: Episode VII - The Force Awakens",
+    "title": "A Clockwork Orange",
     "genre": [
-      "Action",
-      "Adventure",
+      "Crime",
+      "Drama",
       "Sci-Fi"
     ]
   },
   "#3": {
-    "title": "Interstellar",
+    "title": "Big Jake",
     "genre": [
-      "Adventure",
-      "Drama",
-      "Sci-Fi"
+      "Western"
     ]
   },
   "#4": {
-    "title": "A Brilliant Young Mind",
-    "genre": [
-      "Drama",
-      "Romance"
-    ]
-  },
-  "#5": {
-    "title": "Whiplash",
-    "genre": [
-      "Drama",
-      "Music"
-    ]
-  },
-  "#6": {
-    "title": "Ex Machina",
-    "genre": [
-      "Drama",
-      "Mystery",
-      "Sci-Fi"
-    ]
-  },
-  "#7": {
-    "title": "Southpaw",
-    "genre": [
-      "Drama",
-      "Sport"
-    ]
-  },
-  "#8": {
-    "title": "Creed",
-    "genre": [
-      "Drama",
-      "Sport"
-    ]
-  },
-  "#9": {
-    "title": "Unbroken",
-    "genre": [
-      "Biography",
-      "Drama",
-      "Sport"
-    ]
-  },
-  "#10": {
-    "title": "The Man from U.N.C.L.E.",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ]
-  },
-  "#11": {
-    "title": "Infinitely Polar Bear",
-    "genre": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ]
-  },
-  "#12": {
-    "title": "The Hateful Eight",
-    "genre": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ]
-  },
-  "#13": {
-    "title": "The Martian",
-    "genre": [
-      "Adventure",
-      "Drama",
-      "Sci-Fi"
-    ]
-  },
-  "#14": {
-    "title": "The Little Death",
-    "genre": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ]
-  },
-  "#15": {
-    "title": "Inside Out",
-    "genre": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ]
-  },
-  "#16": {
-    "title": "Steve Jobs",
-    "genre": [
-      "Biography",
-      "Drama"
-    ]
-  },
-  "#17": {
-    "title": "Furious 7",
+    "title": "Diamonds Are Forever",
     "genre": [
       "Action",
       "Adventure",
       "Thriller"
     ]
   },
-  "#18": {
-    "title": "Kingsman: The Secret Service",
+  "#5": {
+    "title": "Dirty Harry",
     "genre": [
       "Action",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "#6": {
+    "title": "Bedknobs and Broomsticks",
+    "genre": [
+      "Animation",
       "Adventure",
       "Comedy"
     ]
   },
-  "#19": {
-    "title": "Before I Disappear",
+  "#7": {
+    "title": "Le Mans",
     "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "#8": {
+    "title": "The Last Picture Show",
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "#9": {
+    "title": "Harold and Maude",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  "#10": {
+    "title": "Fiddler on the Roof",
+    "genre": [
+      "Drama",
+      "Family",
+      "Musical"
+    ]
+  },
+  "#11": {
+    "title": "The French Connection",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "#12": {
+    "title": "Play Misty for Me",
+    "genre": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "#13": {
+    "title": "THX 1138",
+    "genre": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ]
+  },
+  "#14": {
+    "title": "Walkabout",
+    "genre": [
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "#15": {
+    "title": "The Devils",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
+  },
+  "#16": {
+    "title": "Straw Dogs",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "#17": {
+    "title": "Duck, You Sucker",
+    "genre": [
+      "Drama",
+      "War",
+      "Western"
+    ]
+  },
+  "#18": {
+    "title": "Vanishing Point",
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "#19": {
+    "title": "Kidnapped",
+    "genre": [
+      "Adventure",
       "Drama"
     ]
   },
   "#20": {
-    "title": "Everest",
+    "title": "McCabe & Mrs. Miller",
     "genre": [
-      "Action",
-      "Adventure",
-      "Biography"
+      "Drama",
+      "Western"
     ]
   },
   "#21": {
-    "title": "The Stanford Prison Experiment",
+    "title": "Carnal Knowledge",
     "genre": [
-      "Biography",
-      "Drama",
-      "History"
-    ]
-  },
-  "#22": {
-    "title": "American Sniper",
-    "genre": [
-      "Action",
-      "Biography",
       "Drama"
     ]
   },
-  "#23": {
-    "title": "John Wick",
+  "#22": {
+    "title": "The Beguiled",
     "genre": [
-      "Action",
-      "Crime",
-      "Thriller"
+      "Drama",
+      "Thriller",
+      "War"
+    ]
+  },
+  "#23": {
+    "title": "The Panic in Needle Park",
+    "genre": [
+      "Drama"
     ]
   },
   "#24": {
-    "title": "Avengers: Age of Ultron",
+    "title": "The Omega Man",
     "genre": [
       "Action",
-      "Adventure",
+      "Drama",
       "Sci-Fi"
     ]
   },
   "#25": {
-    "title": "Dope",
+    "title": "The Andromeda Strain",
     "genre": [
-      "Comedy",
-      "Crime",
-      "Drama"
+      "Sci-Fi",
+      "Thriller"
     ]
   },
   "#26": {
-    "title": "The Admiral",
+    "title": "Klute",
     "genre": [
-      "Action",
-      "Drama",
-      "History"
+      "Crime",
+      "Mystery",
+      "Thriller"
     ]
   },
   "#27": {
-    "title": "Legend",
-    "genre": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ]
-  },
-  "#28": {
-    "title": "Hotel Transylvania 2",
-    "genre": [
-      "Animation",
-      "Comedy",
-      "Family"
-    ]
-  },
-  "#29": {
-    "title": "5 to 7",
-    "genre": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ]
-  },
-  "#30": {
-    "title": "Selma",
+    "title": "Macbeth",
     "genre": [
       "Biography",
       "Drama",
       "History"
     ]
   },
-  "#31": {
-    "title": "Sicario",
+  "#28": {
+    "title": "Shaft",
     "genre": [
       "Action",
       "Crime",
-      "Drama"
+      "Thriller"
     ]
   },
-  "#32": {
-    "title": "Tokyo Tribe",
-    "genre": [
-      "Action",
-      "Musical"
-    ]
-  },
-  "#33": {
-    "title": "Black or White",
-    "genre": [
-      "Drama"
-    ]
-  },
-  "#34": {
-    "title": "McFarland, USA",
+  "#29": {
+    "title": "Mary, Queen of Scots",
     "genre": [
       "Biography",
       "Drama",
-      "Sport"
+      "History"
     ]
   },
-  "#35": {
-    "title": "Slow West",
+  "#30": {
+    "title": "Get Carter",
     "genre": [
       "Action",
-      "Adventure",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "#31": {
+    "title": "Billy Jack",
+    "genre": [
+      "Action",
+      "Drama",
       "Western"
     ]
   },
-  "#36": {
-    "title": "The Gift",
+  "#32": {
+    "title": "Hannie Caulder",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Western"
+    ]
+  },
+  "#33": {
+    "title": "The Decameron",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "History"
+    ]
+  },
+  "#34": {
+    "title": "Johnny Got His Gun",
     "genre": [
       "Drama",
-      "Mystery",
+      "War"
+    ]
+  },
+  "#35": {
+    "title": "Death in Venice",
+    "genre": [
+      "Drama"
+    ]
+  },
+  "#36": {
+    "title": "Wake in Fright",
+    "genre": [
+      "Drama",
       "Thriller"
     ]
   },
   "#37": {
-    "title": "The 33",
+    "title": "Support Your Local Gunfighter",
     "genre": [
-      "Biography",
-      "Drama",
-      "History"
+      "Comedy",
+      "Romance",
+      "Western"
     ]
   },
   "#38": {
-    "title": "Backcountry",
+    "title": "Anand",
     "genre": [
       "Drama",
-      "Horror",
-      "Thriller"
+      "Musical"
     ]
   },
   "#39": {
-    "title": "Kill the Messenger",
+    "title": "Bananas",
     "genre": [
-      "Biography",
-      "Crime",
-      "Drama"
+      "Comedy"
     ]
   },
   "#40": {
-    "title": "Rurouni Kenshin Part III: The Legend Ends",
+    "title": "Sunday Bloody Sunday",
     "genre": [
-      "Action",
-      "Adventure",
       "Drama"
     ]
   },
   "#41": {
-    "title": "Two Days, One Night",
+    "title": "Summer of '42",
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "#42": {
+    "title": "Soleil rouge",
+    "genre": [
+      "Action",
+      "Western"
+    ]
+  },
+  "#43": {
+    "title": "The Big Boss",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "#44": {
+    "title": "Lawman",
+    "genre": [
+      "Adventure",
+      "Western"
+    ]
+  },
+  "#45": {
+    "title": "Daughters of Darkness",
+    "genre": [
+      "Horror"
+    ]
+  },
+  "#46": {
+    "title": "Escape from the Planet of the Apes",
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ]
+  },
+  "#47": {
+    "title": "Two-Lane Blacktop",
     "genre": [
       "Drama"
     ]
   },
-  "#42": {
-    "title": "Terminator Genisys",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ]
-  },
-  "#43": {
-    "title": "Black Sea",
-    "genre": [
-      "Adventure",
-      "Drama",
-      "Thriller"
-    ]
-  },
-  "#44": {
-    "title": "American Ultra",
-    "genre": [
-      "Action",
-      "Comedy",
-      "Sci-Fi"
-    ]
-  },
-  "#45": {
-    "title": "The Imitation Game",
-    "genre": [
-      "Biography",
-      "Drama",
-      "Thriller"
-    ]
-  },
-  "#46": {
-    "title": "Ant-Man",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ]
-  },
-  "#47": {
-    "title": "Turbo Kid",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ]
-  },
   "#48": {
-    "title": "Straight Outta Compton",
+    "title": "A Bay of Blood",
     "genre": [
-      "Biography",
-      "Drama",
-      "History"
+      "Horror",
+      "Mystery",
+      "Thriller"
     ]
   },
   "#49": {
-    "title": "Spare Parts",
+    "title": "Women in Cages",
     "genre": [
+      "Action",
+      "Crime",
       "Drama"
     ]
   },
   "#50": {
-    "title": "Jurassic World",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ]
-  },
-  "#51": {
-    "title": "Paper Towns",
+    "title": "The Abominable Dr. Phibes",
     "genre": [
       "Comedy",
-      "Drama",
-      "Mystery"
-    ]
-  },
-  "#52": {
-    "title": "Kano",
-    "genre": [
-      "Biography",
-      "Drama",
-      "History"
-    ]
-  },
-  "#53": {
-    "title": "Gukjesijang",
-    "genre": [
-      "Drama",
-      "War"
-    ]
-  },
-  "#54": {
-    "title": "Who Am I - Kein System ist sicher",
-    "genre": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ]
-  },
-  "#55": {
-    "title": "Everly",
-    "genre": [
-      "Action",
-      "Thriller"
-    ]
-  },
-  "#56": {
-    "title": "Black Mass",
-    "genre": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ]
-  },
-  "#57": {
-    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-    "genre": [
-      "Comedy",
-      "Drama"
-    ]
-  },
-  "#58": {
-    "title": "Lost River",
-    "genre": [
-      "Drama",
-      "Fantasy",
-      "Mystery"
-    ]
-  },
-  "#59": {
-    "title": "A Girl Walks Home Alone at Night",
-    "genre": [
-      "Drama",
       "Horror"
-    ]
-  },
-  "#60": {
-    "title": "What We Did on Our Holiday",
-    "genre": [
-      "Comedy",
-      "Drama"
-    ]
-  },
-  "#61": {
-    "title": "'71",
-    "genre": [
-      "Action",
-      "Crime",
-      "Drama"
-    ]
-  },
-  "#62": {
-    "title": "The Good Lie",
-    "genre": [
-      "Biography",
-      "Drama"
-    ]
-  },
-  "#63": {
-    "title": "Little Boy",
-    "genre": [
-      "Drama",
-      "History",
-      "War"
-    ]
-  },
-  "#64": {
-    "title": "The Hundred-Foot Journey",
-    "genre": [
-      "Comedy",
-      "Drama"
-    ]
-  },
-  "#65": {
-    "title": "Spy",
-    "genre": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ]
-  },
-  "#66": {
-    "title": "Boychoir",
-    "genre": [
-      "Drama",
-      "Music"
-    ]
-  },
-  "#67": {
-    "title": "Big Eyes",
-    "genre": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ]
-  },
-  "#68": {
-    "title": "I Origins",
-    "genre": [
-      "Drama",
-      "Romance",
-      "Sci-Fi"
-    ]
-  },
-  "#69": {
-    "title": "Mission: Impossible - Rogue Nation",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ]
-  },
-  "#70": {
-    "title": "The Longest Ride",
-    "genre": [
-      "Drama",
-      "Romance"
-    ]
-  },
-  "#71": {
-    "title": "The Final Girls",
-    "genre": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ]
-  },
-  "#72": {
-    "title": "Goosebumps",
-    "genre": [
-      "Adventure",
-      "Comedy",
-      "Family"
-    ]
-  },
-  "#73": {
-    "title": "Qin ai de",
-    "genre": [
-      "Drama"
-    ]
-  },
-  "#74": {
-    "title": "Relatos salvajes",
-    "genre": [
-      "Comedy",
-      "Drama",
-      "Thriller"
-    ]
-  },
-  "#75": {
-    "title": "Insidious: Chapter 3",
-    "genre": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ]
-  },
-  "#76": {
-    "title": "Entourage",
-    "genre": [
-      "Comedy"
-    ]
-  },
-  "#77": {
-    "title": "Cake",
-    "genre": [
-      "Drama"
-    ]
-  },
-  "#78": {
-    "title": "No Escape",
-    "genre": [
-      "Action",
-      "Thriller"
-    ]
-  },
-  "#79": {
-    "title": "We Are Your Friends",
-    "genre": [
-      "Drama",
-      "Music",
-      "Romance"
-    ]
-  },
-  "#80": {
-    "title": "Self/less",
-    "genre": [
-      "Action",
-      "Mystery",
-      "Sci-Fi"
-    ]
-  },
-  "#81": {
-    "title": "Circle",
-    "genre": [
-      "Drama",
-      "Horror",
-      "Mystery"
-    ]
-  },
-  "#82": {
-    "title": "The Best of Me",
-    "genre": [
-      "Drama",
-      "Romance"
-    ]
-  },
-  "#83": {
-    "title": "Paddington",
-    "genre": [
-      "Adventure",
-      "Comedy",
-      "Family"
-    ]
-  },
-  "#84": {
-    "title": "Testament of Youth",
-    "genre": [
-      "Biography",
-      "Drama",
-      "History"
-    ]
-  },
-  "#85": {
-    "title": "The Hunger Games: Mockingjay - Part 1",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ]
-  },
-  "#86": {
-    "title": "The Age of Adaline",
-    "genre": [
-      "Drama",
-      "Fantasy",
-      "Romance"
-    ]
-  },
-  "#87": {
-    "title": "The Gambler",
-    "genre": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ]
-  },
-  "#88": {
-    "title": "Me and Earl and the Dying Girl",
-    "genre": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ]
-  },
-  "#89": {
-    "title": "Kiseijuu: Kanketsuhen",
-    "genre": [
-      "Action",
-      "Drama",
-      "Horror"
-    ]
-  },
-  "#90": {
-    "title": "Last Knights",
-    "genre": [
-      "Action",
-      "Drama",
-      "History"
-    ]
-  },
-  "#91": {
-    "title": "The Intern",
-    "genre": [
-      "Comedy",
-      "Drama"
-    ]
-  },
-  "#92": {
-    "title": "The Voices",
-    "genre": [
-      "Comedy",
-      "Crime",
-      "Horror"
-    ]
-  },
-  "#93": {
-    "title": "Run All Night",
-    "genre": [
-      "Action",
-      "Drama",
-      "Thriller"
-    ]
-  },
-  "#94": {
-    "title": "Chappie",
-    "genre": [
-      "Action",
-      "Crime",
-      "Drama"
-    ]
-  },
-  "#95": {
-    "title": "The Wedding Ringer",
-    "genre": [
-      "Comedy"
-    ]
-  },
-  "#96": {
-    "title": "Absolutely Anything",
-    "genre": [
-      "Comedy",
-      "Sci-Fi"
-    ]
-  },
-  "#97": {
-    "title": "Focus",
-    "genre": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ]
-  },
-  "#98": {
-    "title": "The Boy",
-    "genre": [
-      "Drama",
-      "Horror",
-      "Thriller"
-    ]
-  },
-  "#99": {
-    "title": "Vacation",
-    "genre": [
-      "Adventure",
-      "Comedy"
-    ]
-  },
-  "#100": {
-    "title": "The Hobbit: The Battle of the Five Armies",
-    "genre": [
-      "Adventure",
-      "Fantasy"
     ]
   }
 }

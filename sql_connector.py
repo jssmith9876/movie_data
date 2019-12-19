@@ -12,11 +12,11 @@ def make_table():
 
         if connection.is_connected():
             db_info = connection.get_server_info()
-            print("Connected to to MySQL Server Version ", db_info)
+            # print("Connected to to MySQL Server Version ", db_info)
             cursor = connection.cursor()
             cursor.execute("select database();")
             record = cursor.fetchone()
-            print("You're connected to database: ", record)
+            # print("You're connected to database: ", record)
 
             # get the information from the json file
             with open('movies.json', 'r') as infile:
@@ -24,7 +24,7 @@ def make_table():
             
             # create the table
             table_name = 'movies_' + str(movie_data['year'])
-            cursor.execute("create table " + table_name + "(id int not null AUTO_INCREMENT, title varchar(50), genre_1 varchar(20), genre_2 varchar(20), genre_3 varchar(20), primary key (id));")
+            cursor.execute("create table " + table_name + "(id int not null AUTO_INCREMENT, title varchar(75), genre_1 varchar(20), genre_2 varchar(20), genre_3 varchar(20), primary key (id));")
             print("Table {} has been created.".format(table_name))
 
             # insert the data
@@ -52,7 +52,7 @@ def make_table():
 
                     connection.commit()
 
-            print("Movie data has been inserted into {}".format(table_name))
+            # print("Movie data has been inserted into {}".format(table_name))
 
             # drop the table for testing
             # cursor.execute("drop table " + table_name + ";")
@@ -68,4 +68,4 @@ def make_table():
         if connection.is_connected():
             cursor.close()
             connection.close()
-            print("MySQL connection is closed")
+            # print("MySQL connection is closed")
