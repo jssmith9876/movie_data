@@ -20,7 +20,7 @@ try:
         record = cursor.fetchall()
         
         for movie in record:
-            for genre_index in range(1, 3):
+            for genre_index in range(0, 3):
                 current_genre = movie[genre_index + 2]
                 if current_genre is not None:
                     if current_genre not in genres:
